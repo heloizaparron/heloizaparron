@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é @heloizaparron
 
-:+1: meu email de contato é heloizaparron@escola.pr.gov.br
+- :+1: meu email de contato é heloizaparron@escola.pr.gov.br
 - 👀 eu estou interessada em aprender a progamar novas linguagens 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
